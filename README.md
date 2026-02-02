@@ -1,4 +1,4 @@
-DiMao
+DiMap
 
 Dissacharide Mapping
 
