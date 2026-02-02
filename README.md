@@ -1,5 +1,4 @@
-DiMap
-
+### DiMap
 Dissacharide Mapping
 
 DiMap was created as a practical alternative to **metadynamics** for exploring **disaccharide conformations** around the same glycosidic collective variables (**φ/ψ**). While metadynamics can provide free-energy surfaces, it typically requires long simulations, bias-parameter tuning, and convergence checks. DiMap focuses on a simpler and reproducible strategy to quickly map the relevant torsional space.
