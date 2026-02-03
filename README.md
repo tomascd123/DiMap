@@ -13,7 +13,7 @@ DiMap was created as a practical alternative to **metadynamics** for exploring d
     </td>
     <td align="center">
       <b>Metadynamics (free-energy surface)</b><br>
-      <img src="images/metadynamics_phi_psi.png" width="420" alt="Metadynamics φ/ψ free-energy map">
+      <img src="images/images/metadynamics_phi_psi.png" width="420" alt="Metadynamics φ/ψ free-energy map">
     </td>
   </tr>
 </table>
